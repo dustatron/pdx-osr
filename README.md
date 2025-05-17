@@ -1,76 +1,45 @@
-![Zaggonaut, a retro-inspired theme for Astro.](./images/README.png)
+# pdx osr Website
 
-Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and of course, Astro.
+This is the website for pdx osr, a passionate community dedicated to preserving and celebrating the rich traditions of Old School Revival (OSR) tabletop role-playing games. The website is built with [Astro](https://astro.build/).
 
 ## Getting Started
 
-[View the demo](https://zaggonaut.dev) or [view the source code](https://github.com/RATIU5/zaggonaut).
+To run the website locally, you will need to have Node.js and pnpm installed.
 
-Alternatively, you can create a new Astro project with Zaggonaut like this:
+Clone the repository:
 
 ```bash
-# pnpm
-pnpm create astro@latest --template RATIU5/zaggonaut
+git clone [repository URL]
+cd osr_website/osr-ui
 ```
 
-> [!IMPORTANT]  
-> Currently, `pnpm` is the only supported package manager due to `pnpm` throwing peer-dependency conflicts.
+Install the dependencies:
 
-## Features
-
-- Dark & light mode
-- Customizable colors
-- 100 / 100 Lighthouse score
-- Fully accessible
-- Fully responsive
-- Type-safe
-- SEO-friendly
-
-## Customization
-
-The entire theme is fully customizable. The theme is setup a specific way to make it easy to customize.
-
-### Colors
-
-You can customize the colors of the theme by editing the `src/styles/global.css` file.
-This file uses Tailwind CSS and CSS variables to customize the colors of the theme.
-Zaggonaut uses the following CSS variables:
-
-- `--color-zag-dark`: The dark color of the theme
-- `--color-zag-light`: The light color of the theme
-- `--color-zag-dark-muted`: The dark color of the theme with a slight opacity
-- `--color-zag-light-muted`: The light color of the theme with a slight opacity
-- `--color-zag-accent-light`: The light accent color of the theme
-- `--color-zag-accent-light-muted`: The light accent color of the theme with a slight opacity
-- `--color-zag-accent-dark`: The dark accent color of the theme
-- `--color-zag-accent-dark-muted`: The dark accent color of the theme with a slight opacity
-
-### Text
-
-You can customize the text of the theme by editing the `src/lib/variables.ts` file.
-This file contains all of the text used throughout the theme.
-
-For example, you can change the `username` variable to your own username and everywhere the username is used will be replaced with your username.
-
-```typescript
-export const GLOBAL = {
-  // Site metadata
-  username: "zaggonaut-fan123",
-
-  // ...
-
-  // Profile image
-  profileImage: "profile.webp",
-
-  // Menu items
-  menu: {
-    home: "/",
-    projects: "/projects",
-    blog: "/blog",
-  }
-};
+```bash
+pnpm install
 ```
+
+Start the development server:
+
+```bash
+pnpm run dev
+```
+
+## Template
+
+This website uses the [Zaggonaut](https://zaggonaut.dev) Astro theme as a template.
+
+## Contributing
+
+We welcome contributions to the pdx osr website! If you have any ideas for new features, bug fixes, or improvements, please submit a pull request.
+
+To contribute:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes and commit them with clear, concise messages.
+4.  Submit a pull request to the main branch.
 
 ## Ready To Try?
 
-Check out [the theme website](https://zaggonaut.dev) to give it a spin!
+Check out [the website]([website URL]) to learn more about pdx osr!
