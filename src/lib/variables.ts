@@ -38,9 +38,9 @@ export const GLOBAL = {
 
   // Menu items
   menu: {
-    home: "/",
-    about: "/about",
-    events: "/events",
+    home: "/pdx-osr/",
+    about: "/pdx-osr/about",
+    events: "/pdx-osr/events",
     // blog: "/blog",
   },
 };
