@@ -69,9 +69,13 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install dependencies
-        run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
-        working-directory: ${{ env.BUILD_PATH }}
+      - name: Install dependencies (npm)
+        if: steps.detect-package-manager.outputs.manager == 'npm'
+        run: npm ci
+      - name: Install dependencies (pnpm)
+        if: steps.detect-package-manager.outputs.manager == 'pnpm'
+        working-directory: ${{ github.workspace }}
+        run: pnpm install
       - name: Build with Astro
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} astro build \
