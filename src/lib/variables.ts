@@ -3,7 +3,7 @@
 export const GLOBAL = {
   // Site metadata
   username: "PDX OSR",
-  rootUrl: "https://dustatron.github.io/pdx-osr/",
+  rootUrl: "pdx-osr",
   shortDescription: "Portland's hub for Old School Revival gaming.",
   longDescription:
     "PDX OSR is a vibrant community dedicated to preserving and enhancing the experience of Old School Revival tabletop role-playing games with regular events in Portland.",
@@ -38,9 +38,9 @@ export const GLOBAL = {
 
   // Menu items
   menu: {
-    home: "/pdx-osr/",
-    about: "/pdx-osr/about",
-    events: "/pdx-osr/events",
+    home: "/",
+    about: "/about",
+    events: "/events",
     // blog: "/blog",
   },
 };
