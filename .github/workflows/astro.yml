@@ -68,6 +68,8 @@ jobs:
           fi
       - name: Remove package-lock.json
         run: rm -rf package-lock.json
+      - name: Install pnpm
+        run: npm install -g pnpm
       - name: Install dependencies
         if: steps.detect-package-manager.outputs.manager == 'pnpm'
         working-directory: ${{ github.workspace }}
