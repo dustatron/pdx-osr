@@ -6,18 +6,20 @@ import ProjectSnippet from "../ProjectSnippet.astro";
 
 type Props = {
   featuredProjects: Array<ProjectFrontmatter>;
-}
+};
 
 const { featuredProjects } = Astro.props;
 ---
 
 <div class="flex justify-between items-center w-full">
-  <h3 class="font-display text-lg sm:text-xl leading-loose">{GLOBAL.projectsName}</h3>
-  <Anchor url="/projects" class="text-base">{GLOBAL.viewAll}</Anchor>
+  <h3 class="font-display text-lg sm:text-xl leading-loose">
+    {GLOBAL.eventsName}
+  </h3>
+  <Anchor url="/events" class="text-base">{GLOBAL.viewAll}</Anchor>
 </div>
 <ul class="my-8">
   {
-    (featuredProjects.length === 0 && <p>{GLOBAL.noProjects}</p>) ||
+    (featuredProjects.length === 0 && <p>{GLOBAL.noEvents}</p>) ||
       featuredProjects.map((project) => (
         <li>
           <ProjectSnippet

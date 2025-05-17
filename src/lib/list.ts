@@ -6,7 +6,7 @@ export const articles = (
     "blog",
     (data) => {
       const shortDescription = getShortDescription(
-        data.frontmatter.description,
+        data.frontmatter.description
       );
       return {
         title: data.frontmatter.title,
@@ -17,7 +17,7 @@ export const articles = (
         timestamp: data.frontmatter.timestamp,
         filename: `/blog/${data.frontmatter.filename}`,
       };
-    },
+    }
   )
 ).sort((a, b) => {
   const dateA = new Date(a.timestamp);
@@ -25,12 +25,12 @@ export const articles = (
   return dateB.getTime() - dateA.getTime();
 });
 
-export const projects = (
+export const events = (
   await processContentInDir<ProjectFrontmatter, ProjectFrontmatter>(
-    "projects",
+    "events",
     (data) => {
       const shortDescription = getShortDescription(
-        data.frontmatter.description,
+        data.frontmatter.description
       );
       return {
         title: data.frontmatter.title,
@@ -40,9 +40,9 @@ export const projects = (
         liveUrl: data.frontmatter.liveUrl,
         featured: data.frontmatter.featured,
         timestamp: data.frontmatter.timestamp,
-        filename: `/projects/${data.frontmatter.filename}`,
+        filename: `/events/${data.frontmatter.filename}`,
       };
-    },
+    }
   )
 ).sort((a, b) => {
   const dateA = new Date(a.timestamp);

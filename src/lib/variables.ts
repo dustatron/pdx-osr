@@ -2,42 +2,45 @@
 
 export const GLOBAL = {
   // Site metadata
-  username: "Zaggonaut",
+  username: "PDX OSR",
   rootUrl: "https://zaggonaut.dev",
-  shortDescription: "Retro-Inspired Theme &<br /> Built for Astro",
-  longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
-  
+  shortDescription: "Portland's hub for Old School Revival gaming.",
+  longDescription:
+    "PDX OSR is a vibrant community dedicated to preserving and enhancing the experience of Old School Revival tabletop role-playing games with regular events in Portland.",
+
   // Social media links
   githubProfile: "https://github.com/RATIU5/zaggonaut",
   twitterProfile: "https://twitter.com/",
   linkedinProfile: "https://www.linkedin.com/",
-  
+
   // Common text names used throughout the site
   articlesName: "Articles",
-  projectsName: "Projects",
+  eventsName: "Events",
   viewAll: "View All",
-  
+
   // Common descriptions used throughout the site
   noArticles: "No featured articles yet.",
-  noProjects: "No featured projects yet.",
+  noEvents: "No featured events yet.",
 
   // Blog metadata
-  blogTitle: "My Thoughts & Takes",
+  blogTitle: "OSR Updates",
   blogShortDescription: "Practical wisdom, unfiltered thoughts, and hot takes.",
-  blogLongDescription: "Web development, tech trends, and the occasional programming mishap.",
+  blogLongDescription:
+    "Web development, tech trends, and the occasional programming mishap.",
 
-  // Project metadata
-  projectTitle: "Projects and Code",
-  projectShortDescription: "A list of my web development projects and developer tools.",
-  projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
+  // Event metadata
+  eventTitle: "Events and Games",
+  eventShortDescription: "A list of events and games.",
+  eventLongDescription: "All evnets and games.",
 
   // Profile image
-  profileImage: "michael-dam-unsplash.webp",
+  profileImage: "skull-temp.png",
 
   // Menu items
   menu: {
     home: "/",
-    projects: "/projects",
-    blog: "/blog",
-  }
+    about: "/about",
+    events: "/events",
+    // blog: "/blog",
+  },
 };

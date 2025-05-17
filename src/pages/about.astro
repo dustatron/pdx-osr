@@ -1,0 +1,82 @@
+---
+import { GLOBAL } from "../lib/variables";
+import Layout from "../layouts/Layout.astro";
+import Section from "../components/common/Section.astro";
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>About • {GLOBAL.username}</title>
+    <meta name="description" content="Learn more about pdx osr." />
+  </Fragment>
+  <Section class="my-16 max-w-3xl mx-auto">
+    <h1 class="text-4xl font-bold mb-4 text-center">About pdx osr</h1>
+    <div class="prose prose-lg dark:prose-invert">
+      <p>
+        At pdx osr, we are a passionate community dedicated to preserving and
+        celebrating the rich traditions of Old School Revival (OSR) tabletop
+        role-playing games. Rooted in the philosophies of Matt Finch's Four
+        Pillars of OSR, we emphasize:
+      </p>
+    </div>
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 gap-4 prose prose-lg dark:prose-invert"
+    >
+      <div>
+        <p>
+          <strong>Rulings Over Rules:</strong> Prioritizing the referee's judgment
+          to foster dynamic storytelling.
+        </p>
+      </div>
+      <div>
+        <p>
+          <strong>Player Actions Over Character Abilities:</strong> Valuing player
+          creativity and decision-making in gameplay.
+        </p>
+      </div>
+      <div>
+        <p>
+          <strong>Heroic, Not Super-Heroic:</strong> Encouraging characters to undertake
+          grand adventures without overshadowing the narrative.
+        </p>
+      </div>
+      <div>
+        <p>
+          <strong>No Expectations of Balance in Difficulty:</strong> Embracing challenges
+          that test players' skills and adaptability.
+        </p>
+      </div>
+    </div>
+    <div class="prose prose-lg dark:prose-invert">
+      <p>
+        We believe that OSR games are defined by their open-ended nature,
+        allowing for a diverse range of genres and settings. Whether it's a
+        traditional dungeon crawl, a DCC wrestling campaign, or a unique setting
+        like Cairn or Ziggurat of Doom, all are welcome. Our community thrives
+        on inclusivity, drawing inspiration from small creators and
+        anti-corporate sentiments, and we encourage historical themes and
+        settings.
+      </p>
+    </div>
+    <div class="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg mt-8">
+      <h2 class="text-2xl font-bold mb-2">Get Involved</h2>
+      <div class="prose prose-lg dark:prose-invert">
+        <p>
+          Ready to dive into the world of OSR gaming? Join our Discord server to
+          connect with fellow enthusiasts, share experiences, and stay updated
+          on upcoming events.
+        </p>
+        <p>[Insert Discord Link]</p>
+      </div>
+    </div>
+    <div class="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg">
+      <h2 class="text-2xl font-bold mb-2">Stay Connected</h2>
+      <div class="prose prose-lg dark:prose-invert">
+        <p>
+          For the latest news, event updates, and community highlights, follow
+          us on our social media channels:
+        </p>
+      </div>
+    </div>
+  </Section>
+</Layout>
