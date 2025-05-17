@@ -3,13 +3,13 @@
 export const GLOBAL = {
   // Site metadata
   username: "PDX OSR",
-  rootUrl: "https://zaggonaut.dev",
+  rootUrl: "https://dustatron.github.io/pdx-osr/",
   shortDescription: "Portland's hub for Old School Revival gaming.",
   longDescription:
     "PDX OSR is a vibrant community dedicated to preserving and enhancing the experience of Old School Revival tabletop role-playing games with regular events in Portland.",
 
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
+  githubProfile: "https://github.com/dustatron/pdx-osr",
   twitterProfile: "https://twitter.com/",
   linkedinProfile: "https://www.linkedin.com/",
 
