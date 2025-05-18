@@ -34,7 +34,7 @@ export const GLOBAL = {
   eventLongDescription: "All evnets and games.",
 
   // Profile image
-  profileImage: "skull-temp.png",
+  profileImage: "PDXOSR_transback.png",
 
   // Menu items
   menu: {
