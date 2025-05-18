@@ -4,9 +4,9 @@ export const GLOBAL = {
   // Site metadata
   username: "PDX OSR",
   rootUrl: "pdx-osr",
-  shortDescription: "Portland's hub for Old School Revival gaming.",
+  shortDescription: "Where diverse RPG Experiences are waiting for you.",
   longDescription:
-    "PDX OSR is a vibrant community dedicated to preserving and enhancing the experience of Old School Revival tabletop role-playing games with regular events in Portland.",
+    "PDX OSR is a community-centric, inclusive space in Portland, OR for enthusiasts of non-mainstream RPGs, advocating for respect, diversity, and a passion for the old and new-school gaming.",
 
   // Social media links
   githubProfile: "https://github.com/dustatron/pdx-osr",
@@ -38,9 +38,11 @@ export const GLOBAL = {
 
   // Menu items
   menu: {
-    home: "/",
-    about: "/about",
-    events: "/events",
+    Home: "/",
+    About: "/about",
+    Events: "/events",
+    "Sumbit Event":
+      "https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform",
     // blog: "/blog",
   },
 };

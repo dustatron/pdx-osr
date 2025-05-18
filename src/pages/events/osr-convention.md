@@ -10,8 +10,18 @@ filename: osr-convention
 
 # Event Details:
 - **Date:** July 26th, 2025
+- **Time:** 12 PM - 10 PM
 - **Location:** [Back Water, Portland, OR](https://bar.blackwaterpdx.com/)
 - **Address:** [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
-- **Time:** coming soon...
 - **Registration:** [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439)
 
+---
+## About OSR Convention
+
+
+---
+
+### _Disclaimer_
+**PDX OSR** is inclusive - We expect all participants to behave with common courtesy and respect towards other individuals as well as the establishments generously allowing us space to run games.
+
+Harassment with regard to gender, sexual orientation, dress, age, race, religion or lack thereof, political affiliation, disability, or involvement or noninvolvement in any group is not allowed.
