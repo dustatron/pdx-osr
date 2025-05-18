@@ -9,7 +9,7 @@ export const GLOBAL = {
     "PDX OSR is a community-centric, inclusive space in Portland, OR for enthusiasts of non-mainstream RPGs, advocating for respect, diversity, and a passion for the old and new-school gaming.",
 
   // Social media links
-  githubProfile: "https://github.com/dustatron/pdx-osr",
+  githubProfile: "",
   twitterProfile: "https://twitter.com/",
   linkedinProfile: "https://www.linkedin.com/",
 

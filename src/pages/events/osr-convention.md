@@ -15,9 +15,11 @@ filename: osr-convention
 - **Address:** [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
 - **Registration:** [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439)
 
+## 🧙🏽‍♂️ GM's Wanted
+> [Submit your Game](https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform)
+
 ---
 ## About OSR Convention
-
 
 ---
 
@@ -25,3 +27,5 @@ filename: osr-convention
 **PDX OSR** is inclusive - We expect all participants to behave with common courtesy and respect towards other individuals as well as the establishments generously allowing us space to run games.
 
 Harassment with regard to gender, sexual orientation, dress, age, race, religion or lack thereof, political affiliation, disability, or involvement or noninvolvement in any group is not allowed.
+
+Fantasy violence is commonplace in RPGs (something to consider...) - that said, adult-themed games are for adults, and GMs must clearly disclose all such content in the game’s event description—no surprises on potentially offensive material. To be clear, graphic sexual content is never acceptable. Please use common sense.
