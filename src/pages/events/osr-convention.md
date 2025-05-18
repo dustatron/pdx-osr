@@ -9,14 +9,14 @@ filename: osr-convention
 ---
 
 # Event Details:
-- **Date:** July 26th, 2025
-- **Time:** 12 PM - 10 PM
-- **Location:** [Back Water, Portland, OR](https://bar.blackwaterpdx.com/)
-- **Address:** [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
-- **Registration:** [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439)
+- **Date:** 🗓️ July 26th, 2025
+- **Time:** ⏰ 12 PM - 10 PM
+- **Location:** 🌊 [Back Water, Portland, OR](https://bar.blackwaterpdx.com/)
+- **Address:** 🗺️ [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
+- **Registration:** 📝 [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439)
 
 ## 🧙🏽‍♂️ GM's Wanted
-> [Submit your Game](https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform)
+[Submit your Game](https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform)
 
 ---
 ## About OSR Convention
