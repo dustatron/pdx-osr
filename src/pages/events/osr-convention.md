@@ -20,7 +20,7 @@ filename: osr-convention
 
 ---
 ## About OSR Convention
-The OSR Convention is a unique fusion of nostalgia and innovation, uniting Old and New School Revivals (OSR/NSR) with locally crafted adventures in a passionate RPG celebration. Moving beyond mainstream standards, this gathering is a vibrant hub for sharing ideas, engaging in captivating game sessions, and showcasing the creativity of the community in the exhilarating realm of tabletop gaming.
+The OSR Convention is a unique fusion of nostalgia and innovation, uniting Old and New School Revivals (OSR/NSR) with locally crafted adventures and games from Portland creatives. Moving beyond mainstream standards, this gathering is a vibrant hub for sharing ideas, engaging in captivating game sessions, and showcasing the creativity building community centered around tabletop gaming and creativity.
 
 ---
 
