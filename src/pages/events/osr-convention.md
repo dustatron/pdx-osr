@@ -10,7 +10,7 @@ filename: osr-convention
 # Event Details:
 - **Date:** 🗓️ July 26th, 2025
 - **Time:** ⏰ 12 PM - 10 PM
-- **Location:** 🌊 [Back Water Bar, Portland, OR](https://bar.blackwaterpdx.com/)
+- **Location:** 🌊 [Black Water Bar, Portland, OR](https://bar.blackwaterpdx.com/)
 - **Address:** 🗺️ [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
 - **📝 Registration opens in July**
 <!-- - **Registration:** 📝 [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439) -->
