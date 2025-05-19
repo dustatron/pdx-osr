@@ -88,7 +88,7 @@ import FeaturedEvents from "../components/home/FeaturedEvents.astro";
       <div
         class="border-1 bg-neutral-900 text-white border-gray-500 p-4 rounded-lg mt-8"
       >
-        <h2 class="font-bold text-2xl">Join the RPG Revolution</h2>
+        <h2 class="font-bold text-2xl">Join the OSR Community</h2>
         <div class="gap-2.5 flex md:flex-row sm:flex-col gap-2.5 mt-4">
           {
             GLOBAL.discord && (
@@ -97,10 +97,13 @@ import FeaturedEvents from "../components/home/FeaturedEvents.astro";
               </a>
             )
           }
-
-          <a href="https://heylo.group/pdx-osr">
-            <Button>Reserve your seat @ Heylo</Button>
-          </a>
+          {
+            GLOBAL.heylo && (
+              <a href="https://heylo.group/pdx-osr">
+                <Button>Reserve your seat @ Heylo</Button>
+              </a>
+            )
+          }
         </div>
       </div>
     </div>
