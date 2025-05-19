@@ -7,7 +7,6 @@ timestamp: 2025-06-24T02:39:03+00:00
 featured: true
 filename: osr-convention
 ---
-
 # Event Details:
 - **Date:** 🗓️ July 26th, 2025
 - **Time:** ⏰ 12 PM - 10 PM
@@ -15,6 +14,7 @@ filename: osr-convention
 - **Address:** 🗺️ [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
 - **📝 Registration opens in July**
 <!-- - **Registration:** 📝 [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439) -->
+![](/public/Announcement.png)
 
 ## 🧙🏽‍♂️ GM's Wanted
 [Submit your Game](https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform)
