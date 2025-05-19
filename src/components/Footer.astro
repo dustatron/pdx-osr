@@ -25,15 +25,20 @@ const year = date.getFullYear();
         <a href="https://github.com/dustatron/pdx-osr">
           <buton>GitHub</buton>
         </a>
-        <a href="
-          https:
-          discord.gg
-          tqKrfWCDYx">
-          <buton>Discord</buton>
-        </a>
-        <a href="https://heylo.group/pdx-osr">
-          <buton>Heylo</buton>
-        </a>
+        {
+          GLOBAL?.discord && (
+            <a href={GLOBAL.discord}>
+              <buton>Discord</buton>
+            </a>
+          )
+        }
+        {
+          GLOBAL?.heylo && (
+            <a href={GLOBAL.heylo}>
+              <buton>Heylo</buton>
+            </a>
+          )
+        }
       </div>
     </div>
   </Section>

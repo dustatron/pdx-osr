@@ -78,10 +78,14 @@ import FeaturedEvents from "../components/home/FeaturedEvents.astro";
         class="border-1 bg-neutral-900 text-white border-gray-500 p-4 rounded-lg mt-8"
       >
         <h2 class="font-bold text-2xl">Join the RPG Revolution</h2>
-        <div class="gap-2.5 flex flex-row gap-2.5 mt-4">
-          <a href="https://discord.gg/tqKrfWCDYx">
-            <Button>Discord</Button>
-          </a>
+        <div class="gap-2.5 flex md:flex-row sm:flex-col gap-2.5 mt-4">
+          {
+            GLOBAL.discord && (
+              <a href={GLOBAL.discord}>
+                <Button>Discord</Button>
+              </a>
+            )
+          }
 
           <a href="https://heylo.group/pdx-osr">
             <Button>Reserve your seat @ Heylo</Button>
