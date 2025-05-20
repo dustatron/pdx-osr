@@ -15,7 +15,7 @@ filename: osr-convention
 - **📝 Registration opens in July**
 <!-- - **Registration:** 📝 [Heylo Event Signup](https://www.heylo.com/events/193c5b48-f5e4-4134-812f-69beb2708439) -->
 
-![announcement](../../images/Announcement.png)
+![announcement](/Announcement.png)
 
 ## 🧙🏽‍♂️ GM's Wanted
 [Submit your Game](https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform)
