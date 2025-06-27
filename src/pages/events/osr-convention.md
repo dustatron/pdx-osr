@@ -15,7 +15,7 @@ filename: osr-convention
 - **Address:** 🗺️ [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
 - **📝 Registration opens in July 29th**: https://heylo.group/pdx-osr
 
-
+![announcement](/osr-ui/public/pdxosrcon1_bw.png)
 
 ---
 PDX OSR CON 1 is July 26th at Black Water Bar on NE Sandy in collab w/ our friends at Dark Future Dungeon.
