@@ -37,8 +37,7 @@ export const GLOBAL = {
   profileImage: "PDXOSR_transback.png",
 
   // Event link
-  // heylo: "https://heylo.group/pdx-osr",
-  heylo: "",
+  heylo: "https://heylo.group/pdx-osr",
 
   // Discord invite link
   discord: "https://discord.gg/tqKrfWCDYx",
