@@ -13,7 +13,7 @@ filename: osr-convention
 - **Time:** ⏰ 12 PM - 10 PM
 - **Location:** 🌊 [Black Water Bar, Portland, OR](https://bar.blackwaterpdx.com/)
 - **Address:** 🗺️ [5115 ne Sandy Blvd., portland, or 97213](https://www.google.com/maps)
-- **📝 Registration opens in July 29th**: https://heylo.group/pdx-osr
+- **📝 Registration opens in June 29th**: https://heylo.group/pdx-osr
 
 ![announcement](/pdxosrcon1_bw-sm.jpg)
 
