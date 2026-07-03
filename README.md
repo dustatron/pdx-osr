@@ -9,7 +9,7 @@ To run the website locally, you will need to have Node.js and pnpm installed.
 Clone the repository:
 
 ```bash
-git clone [repository URL]
+git clone https://github.com/dustatron/pdx-osr.git
 cd osr_website/osr-ui
 ```
 
@@ -42,4 +42,6 @@ To contribute:
 
 ## Ready To Try?
 
-Check out [the website]([website URL]) to learn more about pdx osr!
+Check out [the website](https://pdxosr.com/) to learn more about pdx osr!
+
+Coming up next: [PDX OSR CON III](https://pdxosr.com/events/osr-con-iii) — Sunday, October 11th, 2026 at the Oddfellows Lodge.
