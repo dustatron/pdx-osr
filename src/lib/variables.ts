@@ -47,8 +47,6 @@ export const GLOBAL = {
     Home: "/",
     About: "/about",
     Events: "/events",
-    "Sumbit Event":
-      "https://docs.google.com/forms/d/e/1FAIpQLSfLYlTzslgb1kJ8Ot9bXWU4PUMVhK4xjVCCpnhwmB1ELLONvQ/viewform",
     // blog: "/blog",
   },
 };

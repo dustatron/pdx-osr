@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/ProjectLayout.astro
-title: OSR Convention
+title: PDX OSR CON I
 description: Hosting a retro clones new school games.
 tags: [ "Offical PDX OSR", "OSR", "NSR", "Open-Tables"]
 timestamp: 2025-06-24T02:39:03+00:00
